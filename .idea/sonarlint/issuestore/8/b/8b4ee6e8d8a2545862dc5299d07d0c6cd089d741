@@ -1,0 +1,35 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¹‹ó¿ıÿÿÿÿ8éÖÿµ1
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¢‚Åg8êÖÿµ1
+L	java:S106
+"+Replace this use of System.out by a logger.(ƒâÒúÿÿÿÿ8ëÖÿµ1
+L	java:S106"+Replace this use of System.out by a logger.(Ä‡·ûÿÿÿÿ8ëÖÿµ1
+L	java:S106"+Replace this use of System.out by a logger.(ƒâÒúÿÿÿÿ8ëÖÿµ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ëÖÿµ1
+G	java:S106"+Replace this use of System.out by a logger.(ìñ¤8ìÖÿµ1
+G	java:S106"+Replace this use of System.out by a logger.(×Ò®Ä8ìÖÿµ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ìÖÿµ1
+L	java:S106%"+Replace this use of System.out by a logger.(¡•Àşÿÿÿÿ8ïÖÿµ1
+G	java:S106("+Replace this use of System.out by a logger.(¯’–í8ïÖÿµ1
+F	java:S106)"+Replace this use of System.out by a logger.(Ë·—!8ïÖÿµ1
+L	java:S106*"+Replace this use of System.out by a logger.(®ò®¾ıÿÿÿÿ8ïÖÿµ1
+L	java:S106-"+Replace this use of System.out by a logger.(¿üøÒúÿÿÿÿ8ğÖÿµ1
+G	java:S1062"+Replace this use of System.out by a logger.(²ù“ú8ğÖÿµ1
+G	java:S1064"+Replace this use of System.out by a logger.(ëòÆ²8ğÖÿµ1
+L	java:S106M"+Replace this use of System.out by a logger.(¡•Àşÿÿÿÿ8óÖÿµ1
+L	java:S106P"+Replace this use of System.out by a logger.(÷üÖÎıÿÿÿÿ8óÖÿµ1
+G	java:S106Q"+Replace this use of System.out by a logger.(Ç–Õö8óÖÿµ1
+G	java:S106R"+Replace this use of System.out by a logger.(²Ï˜Â8óÖÿµ1
+L	java:S106S"+Replace this use of System.out by a logger.(ÉÙÓıÿÿÿÿ8óÖÿµ1
+L	java:S106T"+Replace this use of System.out by a logger.(ÉéÊÏÿÿÿÿÿ8ôÖÿµ1
+G	java:S106X"+Replace this use of System.out by a logger.(²ù“ú8ôÖÿµ1
+G	java:S106Z"+Replace this use of System.out by a logger.(ëòÆ²8ôÖÿµ1
+[
+java:S1854b"9Remove this useless assignment to local variable "input".(ó™´øıÿÿÿÿ8ôÖÿµ1
+S
+java:S1172^"1Remove this unused method parameter "isHomePage".(»À¦ôúÿÿÿÿ8ôÖÿµ1
+F	java:S106a"+Replace this use of System.out by a logger.(¤ïü8ß­Öÿµ1
+L
+java:S1481b"*Remove this unused "input" local variable.(ó™´øıÿÿÿÿ8õÖÿµ1
