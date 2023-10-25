@@ -9,8 +9,6 @@ import static com.rifqimuhammadaziz.ThirdMenu.printAllFile;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("[===== APLIKASI PENGOLAH NILAI =====]");
-
         Scanner scanner = new Scanner(System.in);
         boolean statusExit = false;
 
@@ -25,12 +23,15 @@ public class Main {
             switch (input) {
                 case 1: {
                     printModus(scanner);
+                    break;
                 }
                 case 2: {
                     printModusMeanMedian(scanner);
+                    break;
                 }
                 case 3: {
                     printAllFile(scanner);
+                    break;
                 }
                 case 0: {
                     isExit = true;

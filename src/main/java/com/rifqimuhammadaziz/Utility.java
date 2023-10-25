@@ -17,7 +17,6 @@ public class Utility {
     public static void showMenu() {
         System.out.println("[0] EXIT");
         System.out.println("[1] KEMBALI KE MENU UTAMA");
-        System.out.println();
     }
 
     public static void printModus() {
@@ -40,10 +39,10 @@ public class Utility {
 
             System.out.println("HASIL PENGOLAHAN NILAI: \n");
             System.out.println("Nilai\t\t\t| Frekuensi");
-            System.out.println("Kurang dari 6\t\t\t| " + frequencyValueMap.getOrDefault(5, 0));
+            System.out.println("Kurang dari 6\t| " + frequencyValueMap.getOrDefault(5, 0));
 
             for (int i = 6; i <= 10; i++) {
-                System.out.println(i + "\t\t\t| " + frequencyValueMap.getOrDefault(i, 0));
+                System.out.println(i + "\t\t\t\t| " + frequencyValueMap.getOrDefault(i, 0));
             }
 
             System.setOut(console);
@@ -122,7 +121,7 @@ public class Utility {
     static boolean isHomePage(Scanner scanner, boolean isHomePage) {
         Utility.showMenu();
 
-        System.out.println("[MASUKAN ANGKA MENU] : ");
+        System.out.print("[MASUKAN ANGKA MENU] : ");
         int input = scanner.nextInt();
         switch (input) {
             case 1: {
