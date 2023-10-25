@@ -12,7 +12,7 @@ public class FirstMenu {
         while (!isHomePage) {
             Utility.showHeader();
             Utility.printModus();
-            System.out.println("-- BERHASIL GENERATE FILE DI ");
+            System.out.println("-- BERHASIL GENERATE FILE DI /Users/rifqimuhammadaziz/Documents/Work/IDSTAR/IDP/AplikasiPengolahNilai/src/main/resources");
 
             isHomePage = isHomePage(scanner, isHomePage);
         }

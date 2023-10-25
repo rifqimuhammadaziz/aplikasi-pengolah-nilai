@@ -13,7 +13,7 @@ public class SecondMenu {
             showHeader();
 
             printModusMedianMean();
-            System.out.println("-- FILE BERHASIL GENERATE DI");
+            System.out.println("-- FILE BERHASIL GENERATE DI /Users/rifqimuhammadaziz/Documents/Work/IDSTAR/IDP/AplikasiPengolahNilai/src/main/resources");
 
             isHomePage = isHomePage(scanner, isHomePage);
         }

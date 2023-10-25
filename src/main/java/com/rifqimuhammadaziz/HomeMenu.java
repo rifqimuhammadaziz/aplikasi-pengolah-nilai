@@ -5,7 +5,7 @@ public class HomeMenu {
         Utility.showHeader();
 
         System.out.println();
-        System.out.println("-- LETAKAN FILE CSV DENGAN NAMA FILE data_sekolah.csv DI DIREKTORI BERIKUT: ");
+        System.out.println("-- LETAKAN FILE CSV DENGAN NAMA FILE data_sekolah.csv DI DIREKTORI BERIKUT: /Users/rifqimuhammadaziz/Documents/Work/IDSTAR/IDP/AplikasiPengolahNilai/src/main/resources");
 
         System.out.println();
         System.out.println("PILIH MENU");

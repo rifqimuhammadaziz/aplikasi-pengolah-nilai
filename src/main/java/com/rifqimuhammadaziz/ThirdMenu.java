@@ -20,7 +20,7 @@ public class ThirdMenu {
             executorService.submit(Utility::printModusMedianMean);
 
             executorService.shutdown();
-            System.out.println("-- FILE BERHASIL GENERATE DI");
+            System.out.println("-- FILE BERHASIL GENERATE DI /Users/rifqimuhammadaziz/Documents/Work/IDSTAR/IDP/AplikasiPengolahNilai/src/main/resources");
 
             isHomePage = isHomePage(scanner, isHomePage);
         }
